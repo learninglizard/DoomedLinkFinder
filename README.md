@@ -8,4 +8,4 @@ How to use:<br>
 5.)  All links are grouped together under the page they are located in above them<br>
 6.)  If an html file name has no href= links under it, then that means that page has no broken links<br>
 7.)  In addition, a list of all files that the script couldn't find used in a link are listed as Orphaned files<br><br>
-<b>Note:</b>  The script simply appends each report to the same BrokenLinks.txt file in your Downloads folder.  Each run is separated by a data/time stamp header.  If you desire a clean BrokenLinks.txt with only one run, simply delete it, rename it, or move it and run the script again.
+<b>Note:</b>  The script simply appends each report to the same BrokenLinks.txt file in your Downloads folder.  Each run is separated by a data/time stamp header.  If you desire a clean report file with only one run, simply delete it, rename it, or move it and run the script again.
